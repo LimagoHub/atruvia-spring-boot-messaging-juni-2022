@@ -1,0 +1,13 @@
+
+E
+java:S3740*"/Provide the parametrized type for this generic.(èÍƒ‹
+D
+java:S3740+"/Provide the parametrized type for this generic.(ƒT
+S	java:S106"9Replace this use of System.out or System.err by a logger.(×ëÁıüÿÿÿÿ
+U
+java:S6213":Rename this variable to not match a restricted identifier.(´Ÿ•şÿÿÿÿ
+S	java:S106""9Replace this use of System.out or System.err by a logger.(áòßàúÿÿÿÿ
+n
+java:S2293+"YReplace the type specification in this constructor call with the diamond operator ("<>").(ƒT
+l
+java:S11922"VDefine a constant instead of duplicating this literal "http://localhost:8081" 3 times.(šˆé

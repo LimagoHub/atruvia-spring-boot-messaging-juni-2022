@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="120c9d25-bd5b-4e83-bd00-5f53f85abd3f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../p04_avro-schema/AvroSchemaConsumer/src/main/java/de/limago/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../p04_avro-schema/AvroSchemaProducer/src/main/java/de/limago/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JsonProducer/.idea/sonarlint/issuestore/1/4/14c5f61795a3839d4c42885a8fda03c4dcd88ed5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JsonProducer/.idea/sonarlint/issuestore/1/9/19ba45240b08221e1ab1642f62b4482f1c28690a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JsonProducer/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JsonProducer/.idea/sonarlint/issuestore/7/5/755950bb690295904a49d36e60958901c54013b8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JsonProducer/.idea/sonarlint/issuestore/b/0/b05db793ccf4fe630555005212cf1f2c0a06aa01" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JsonProducer/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../JsonProducer/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JsonProducer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JsonProducer/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../p03_avro/AvroConsumer/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../p03_avro/AvroConsumer/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../p03_avro/AvroProducer/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../p03_avro/AvroProducer/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="25CLeBFUXEqCoRaWOVdTWbMn0i8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/jsonconsumer" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="120c9d25-bd5b-4e83-bd00-5f53f85abd3f" name="Changes" comment="" />
+      <created>1645026215184</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1645026215184</updated>
+      <workItem from="1645026216360" duration="86000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

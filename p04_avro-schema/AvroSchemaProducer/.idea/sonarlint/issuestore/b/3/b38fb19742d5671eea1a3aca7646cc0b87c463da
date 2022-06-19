@@ -1,0 +1,22 @@
+
+J
+java:S37406"/Provide the parametrized type for this generic.(õ¤Í¹øÿÿÿÿ
+{
+java:S2142("^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾8…ôÑÂæ/
+Q	java:S125"<This block of commented-out lines of code should be removed.(óµÇˆ
+P
+java:S6213$":Rename this variable to not match a restricted identifier.(¢Ëî
+N
+java:S1128"8Remove this unused import 'JavaSessionize.avro.LogLine'.(à÷»
+v
+java:S1128"`Remove this unused import 'io.confluent.kafka.schemaregistry.client.CachedSchemaRegistryClient'.(ñö·Ø
+I
+java:S1128"3Remove this unused import 'org.apache.avro.Schema'.(—®À˜
+[
+java:S1128"@Remove this unused import 'org.apache.avro.reflect.ReflectData'.(İíØìıÿÿÿÿ
+A
+java:S1128"+Remove this unused import 'java.util.Date'.(¸…¼ü
+H
+java:S1128"-Remove this unused import 'java.util.Random'.(èøÉ›ùÿÿÿÿ
+l
+java:S11929"VDefine a constant instead of duplicating this literal "http://localhost:8081" 3 times.(šˆé
