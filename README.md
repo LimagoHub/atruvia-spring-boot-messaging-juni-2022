@@ -1,0 +1,1 @@
+# atruvia-spring-boot-messaging-juni-2022
