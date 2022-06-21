@@ -16,8 +16,6 @@ import java.util.UUID;
 @NoArgsConstructor
 @Builder
 
-
-
 public class KreditantragDTO implements Serializable {
 
     private static final long serialVersionUID = 8144682724082102640L;
