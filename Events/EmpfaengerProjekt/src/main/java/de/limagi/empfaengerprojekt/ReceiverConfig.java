@@ -11,6 +11,6 @@ public class ReceiverConfig {
 
     @Bean
     public Consumer<Event> receive() {
-        return System.out::println;
+        return e->System.out.println(e);
     }
 }
