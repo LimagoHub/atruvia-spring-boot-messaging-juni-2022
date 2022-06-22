@@ -20,16 +20,19 @@
         </processorPath>
         <module name="smartbank24-kreditantrag-registrierung" />
         <module name="smartbank24-kreditantrag-store" />
+        <module name="smartbank24-kreditantrag-scoring" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="smartbank24-kreditantrag-registrierung" target="11" />
+      <module name="smartbank24-kreditantrag-scoring" target="11" />
       <module name="smartbank24-kreditantrag-store" target="11" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="smartbank24-kreditantrag-registrierung" options="-parameters" />
+      <module name="smartbank24-kreditantrag-scoring" options="-parameters" />
       <module name="smartbank24-kreditantrag-store" options="-parameters" />
     </option>
   </component>
