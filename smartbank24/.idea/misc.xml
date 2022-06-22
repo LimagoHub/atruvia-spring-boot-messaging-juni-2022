@@ -7,6 +7,7 @@
         <option value="$PROJECT_DIR$/smartbank24-kreditantrag-store/pom.xml" />
         <option value="$PROJECT_DIR$/smartbank24-kreditantrag-registrierung/pom.xml" />
         <option value="$PROJECT_DIR$/smartbank24-kreditantrag-scoring/pom.xml" />
+        <option value="$PROJECT_DIR$/smartbank24-kreditantrag-city-scoring/pom.xml" />
       </list>
     </option>
   </component>
