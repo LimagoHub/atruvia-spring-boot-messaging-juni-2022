@@ -4,6 +4,7 @@ package de.bankenit.smartbank24kreditantragstore.adapter.events.eventstore.servi
 
 import de.bankenit.smartbank24kreditantragstore.adapter.events.KreditantragEvent;
 import de.bankenit.smartbank24kreditantragstore.adapter.events.ScoringEvent;
+import de.bankenit.smartbank24kreditantragstore.adapter.events.eventstore.entities.KreditAntragPersistiertOutEventEntity;
 import de.bankenit.smartbank24kreditantragstore.adapter.events.eventstore.mapper.EventToEntityMapper;
 import de.bankenit.smartbank24kreditantragstore.adapter.events.eventstore.repositories.EventRepository;
 import de.bankenit.smartbank24kreditantragstore.adapter.events.eventstore.services.EventService;
@@ -57,6 +58,8 @@ public class EventServiceImpl implements EventService {
 
     @Override
     public void storeAndFireKreditAntragPersistiertOutEvent(KreditantragEvent event) {
+        KreditAntragPersistiertOutEventEntity entity = mapper.convertKreditAntragPersistiertOutEventEntity(event);
+        System.out.println(entity);
         //repository.save(mapper.convertKreditAntragPersistiertOutEventEntity(event));
         bridge.send(KREDITANTRAG_PERSISTIERT,event);
     }

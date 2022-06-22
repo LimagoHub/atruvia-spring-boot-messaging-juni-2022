@@ -29,4 +29,18 @@ public class KreditAntragPersistiertOutEventEntity extends AbstractEventEntity{
     private double monthlyIncome;
     private double monthlyExpenditure;
     private double creditSum;
+
+    @Override
+    public String toString() {
+        final StringBuilder sb = new StringBuilder("KreditAntragPersistiertOutEventEntity{");
+        sb.append("firstName='").append(firstName).append('\'');
+        sb.append(", lastName='").append(lastName).append('\'');
+        sb.append(", city='").append(city).append('\'');
+        sb.append(", applicationDate=").append(applicationDate);
+        sb.append(", monthlyIncome=").append(monthlyIncome);
+        sb.append(", monthlyExpenditure=").append(monthlyExpenditure);
+        sb.append(", creditSum=").append(creditSum);
+        sb.append('}');
+        return sb.toString();
+    }
 }
