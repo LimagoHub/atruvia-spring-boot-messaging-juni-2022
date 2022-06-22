@@ -4,6 +4,8 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/smartbank24-kreditantrag-registrierung/smartbank24-kreditantrag-registrierung/pom.xml" />
+        <option value="$PROJECT_DIR$/smartbank24-kreditantrag-store/pom.xml" />
+        <option value="$PROJECT_DIR$/smartbank24-kreditantrag-registrierung/pom.xml" />
       </list>
     </option>
   </component>

@@ -3,7 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/smartbank24.iml" filepath="$PROJECT_DIR$/.idea/smartbank24.iml" />
-      <module fileurl="file://$PROJECT_DIR$/smartbank24-kreditantrag-registrierung/smartbank24-kreditantrag-registrierung/smartbank24-kreditantrag-registrierung.iml" filepath="$PROJECT_DIR$/smartbank24-kreditantrag-registrierung/smartbank24-kreditantrag-registrierung/smartbank24-kreditantrag-registrierung.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smartbank24-kreditantrag-registrierung/smartbank24-kreditantrag-registrierung.iml" filepath="$PROJECT_DIR$/smartbank24-kreditantrag-registrierung/smartbank24-kreditantrag-registrierung.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smartbank24-kreditantrag-store/smartbank24-kreditantrag-store.iml" filepath="$PROJECT_DIR$/smartbank24-kreditantrag-store/smartbank24-kreditantrag-store.iml" />
     </modules>
   </component>
 </project>
